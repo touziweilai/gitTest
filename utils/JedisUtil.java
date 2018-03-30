@@ -55,6 +55,13 @@ public class JedisUtil {
 	public JedisPool getPool() {
 		return jedisPool;
 	}
+	public JedisPool getPool() {
+		return jedisPool;
+	}
+
+
+
+
 
 	/**
 	 * 从jedis连接池中获取获取jedis对象
